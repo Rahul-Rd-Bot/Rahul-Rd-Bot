@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Rahul-Rd-Bot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#### Rahul-Rd-Bot WHATSAPP BOT
+Rahul-Rd-Bot - Simple whatsapp Multi Device whatsapp bot.
 
-<!---
-Rahul-Rd-Bot/Rahul-Rd-Bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+***
+
+### SETUP
+
+1. Scan the QR and copy it
+    <br>
