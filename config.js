@@ -8,8 +8,8 @@ function convertToBool(text, fault = 'true') {
 
 const toBool = (x) => (x && x.toLowerCase() === 'true') || false;
 
-global.apikey = {'https://api.adithyan.xyz': 'free'}
-global.apiUrl = 'https://api.adithyan.xyz/'
+global.apikey = {'AIzaSyCnYl-B2tDNN_JNNe6fVvYap7_XC90CPCQ': 'free'}
+global.apiUrl = 'AIzaSyCnYl-B2tDNN_JNNe6fVvYap7_XC90CPCQ'
 
 const DATABASE_URL = process.env.DATABASE_URL === undefined ? './database.db' : process.env.DATABASE_URL
 process.env.NODE_OPTIONS = '--max_old_space_size=2560'
