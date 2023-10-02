@@ -17,4 +17,4 @@ Rahul-Rd-Bot - Simple whatsapp Multi Device whatsapp bot.
 
 3. Now Deploy
     <br>
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rahul-Rd-Bot/Rahul-Rd-Bot)
+<a href='https://heroku.com/deploy?template=https://github.com/Rahul-Rd-Bot/Rahul-Rd-Bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
